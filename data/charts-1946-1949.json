@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "status": "verified",
+    "noticeHe": "עשרת הגדולים במצעדי המכירות השנתיים הרשמיים של Billboard לשנים 1946–1949.",
+    "sources": [
+      {
+        "id": "billboard-sales-1946",
+        "label": "Billboard, January 4, 1947 — The Year's Top Popular Retail Record Sellers",
+        "type": "official-year-end-retail-sales"
+      },
+      {
+        "id": "billboard-sales-1947",
+        "label": "Billboard, January 3, 1948 — The Year's Top Popular Retail Record Sellers",
+        "type": "official-year-end-retail-sales"
+      },
+      {
+        "id": "billboard-sales-1948",
+        "label": "Billboard, January 1, 1949 — The Year's Top Popular Retail Record Sellers",
+        "type": "official-year-end-retail-sales"
+      },
+      {
+        "id": "billboard-sales-1949",
+        "label": "Billboard, January 14, 1950 — The Year's Top Popular Records According to Retail Sales",
+        "type": "official-year-end-retail-sales"
+      }
+    ]
+  },
+  "charts": [
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":1,"title":"Prisoner of Love","artist":"Perry Como","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":2,"title":"To Each His Own","artist":"Eddy Howard","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":3,"title":"The Gypsy","artist":"The Ink Spots","genres":["פופ מסורתי","הרמוניה ווקאלית"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":4,"title":"Five Minutes More","artist":"Frank Sinatra","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":5,"title":"Rumors Are Flying","artist":"Frankie Carle","genres":["ביג בנד","פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":6,"title":"Oh! What It Seemed to Be","artist":"Frankie Carle","genres":["ביג בנד","פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":7,"title":"Personality","artist":"Johnny Mercer and The Pied Pipers","genres":["פופ מסורתי","הרמוניה ווקאלית"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":8,"title":"South America, Take It Away","artist":"Bing Crosby and The Andrews Sisters","genres":["פופ מסורתי","לטיני"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":9,"title":"The Gypsy","artist":"Dinah Shore","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+    {"year":1946,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":10,"title":"Oh! What It Seemed to Be","artist":"Frank Sinatra","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1946"},
+
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":1,"title":"Near You","artist":"Francis Craig","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":2,"title":"Peg o' My Heart","artist":"The Harmonicats","genres":["פופ אינסטרומנטלי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":3,"title":"Heartaches","artist":"Ted Weems","genres":["ביג בנד","פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":4,"title":"Linda","artist":"Ray Noble Orchestra and Buddy Clark","genres":["ביג בנד","פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":5,"title":"Smoke! Smoke! Smoke! (That Cigarette)","artist":"Tex Williams","genres":["קאנטרי","מערבון"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":6,"title":"I Wish I Didn't Love You So","artist":"Vaughn Monroe","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":7,"title":"Peg o' My Heart","artist":"The Three Suns","genres":["פופ אינסטרומנטלי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":8,"title":"The Anniversary Song","artist":"Al Jolson","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":9,"title":"Near You","artist":"Larry Green Orchestra","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+    {"year":1947,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":10,"title":"That's My Desire","artist":"Sammy Kaye","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1947"},
+
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":1,"title":"Twelfth Street Rag","artist":"Pee Wee Hunt","genres":["דיקסילנד","פופ אינסטרומנטלי"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":2,"title":"Mañana (Is Soon Enough for Me)","artist":"Peggy Lee with Dave Barbour","genres":["פופ מסורתי","לטיני"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":3,"title":"Now Is the Hour","artist":"Bing Crosby with Ken Darby","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":4,"title":"A Tree in the Meadow","artist":"Margaret Whiting","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":5,"title":"My Happiness","artist":"Jon and Sondra Steele","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":6,"title":"You Can't Be True, Dear","artist":"Ken Griffin and Jerry Wayne","genres":["פופ מסורתי","אורגן"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":7,"title":"Little White Lies","artist":"Dick Haymes and Gordon Jenkins","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":8,"title":"You Call Everybody Darlin'","artist":"Al Trace with Bob Vincent","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":9,"title":"My Happiness","artist":"The Pied Pipers","genres":["פופ מסורתי","הרמוניה ווקאלית"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+    {"year":1948,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":10,"title":"I'm Looking Over a Four Leaf Clover","artist":"Art Mooney","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1948"},
+
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":1,"title":"Riders in the Sky","artist":"Vaughn Monroe","genres":["פופ מסורתי","מערבון"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":2,"title":"That Lucky Old Sun","artist":"Frankie Laine","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":3,"title":"You're Breaking My Heart","artist":"Vic Damone","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":4,"title":"Some Enchanted Evening","artist":"Perry Como","genres":["פופ מסורתי","מחזמר"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":5,"title":"Slippin' Around","artist":"Jimmy Wakely and Margaret Whiting","genres":["קאנטרי","פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":6,"title":"I Can Dream, Can't I?","artist":"The Andrews Sisters and Gordon Jenkins","genres":["פופ מסורתי","הרמוניה ווקאלית"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":7,"title":"Cruising Down the River","artist":"Russ Morgan Orchestra","genres":["פופ מסורתי","ביג בנד"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":8,"title":"A Little Bird Told Me","artist":"Evelyn Knight and the Stardusters","genres":["פופ מסורתי","הרמוניה ווקאלית"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":9,"title":"Mule Train","artist":"Frankie Laine","genres":["פופ מסורתי","מערבון"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"},
+    {"year":1949,"chart":"sales","chartLabelHe":"מכירות תקליטים","rank":10,"title":"Jealous Heart","artist":"Al Morgan","genres":["פופ מסורתי"],"sourceStatus":"verified","sourceId":"billboard-sales-1949"}
+  ]
+}
