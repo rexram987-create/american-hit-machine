@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "version": "0.1.0-demo",
+    "status": "demonstration",
+    "noticeHe": "נתוני הדגמה בלבד. הדירוגים אינם מוצגים כנתוני Billboard רשמיים.",
+    "plannedCoverage": "1944-2025"
+  },
+  "charts": [
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 1,
+      "title": "Rock Around the Clock",
+      "artist": "Bill Haley & His Comets",
+      "genres": ["רוקנרול"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 2,
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "genres": ["קאנטרי", "פופ מסורתי"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 3,
+      "title": "Ain't That a Shame",
+      "artist": "Fats Domino",
+      "genres": ["רוקנרול", "R&B"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 4,
+      "title": "The Yellow Rose of Texas",
+      "artist": "Mitch Miller",
+      "genres": ["פופ מסורתי"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 5,
+      "title": "Maybellene",
+      "artist": "Chuck Berry",
+      "genres": ["רוקנרול", "R&B"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 6,
+      "title": "Only You",
+      "artist": "The Platters",
+      "genres": ["דו־וופ", "R&B"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 7,
+      "title": "Unchained Melody",
+      "artist": "Al Hibbler",
+      "genres": ["פופ מסורתי", "ג׳אז ווקאלי"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 8,
+      "title": "Love Is a Many-Splendored Thing",
+      "artist": "The Four Aces",
+      "genres": ["פופ מסורתי"],
+      "peak": 1,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 9,
+      "title": "Tutti Frutti",
+      "artist": "Little Richard",
+      "genres": ["רוקנרול", "R&B"],
+      "peak": 2,
+      "sourceStatus": "demo"
+    },
+    {
+      "year": 1955,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 10,
+      "title": "Earth Angel",
+      "artist": "The Penguins",
+      "genres": ["דו־וופ", "R&B"],
+      "peak": 2,
+      "sourceStatus": "demo"
+    }
+  ]
+}
