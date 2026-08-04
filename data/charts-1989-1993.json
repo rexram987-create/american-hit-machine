@@ -1,0 +1,685 @@
+{
+  "charts": [
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 1,
+      "title": "Look Away",
+      "artist": "Chicago",
+      "genres": [
+        "רוק רך"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 2,
+      "title": "My Prerogative",
+      "artist": "Bobby Brown",
+      "genres": [
+        "R&B",
+        "ניו ג׳ק סווינג"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 3,
+      "title": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "genres": [
+        "רוק"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 4,
+      "title": "Straight Up",
+      "artist": "Paula Abdul",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 5,
+      "title": "Miss You Much",
+      "artist": "Janet Jackson",
+      "genres": [
+        "פופ",
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 6,
+      "title": "Cold Hearted",
+      "artist": "Paula Abdul",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 7,
+      "title": "Wind Beneath My Wings",
+      "artist": "Bette Midler",
+      "genres": [
+        "פופ",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 8,
+      "title": "Girl You Know It's True",
+      "artist": "Milli Vanilli",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 9,
+      "title": "Baby, I Love Your Way/Freebird Medley",
+      "artist": "Will to Power",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1989,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 10,
+      "title": "Giving You the Best That I Got",
+      "artist": "Anita Baker",
+      "genres": [
+        "R&B",
+        "סול"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1989"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 1,
+      "title": "Hold On",
+      "artist": "Wilson Phillips",
+      "genres": [
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 2,
+      "title": "It Must Have Been Love",
+      "artist": "Roxette",
+      "genres": [
+        "פופ",
+        "רוק"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 3,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "genres": [
+        "פופ",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 4,
+      "title": "Poison",
+      "artist": "Bell Biv DeVoe",
+      "genres": [
+        "R&B",
+        "ניו ג׳ק סווינג"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 5,
+      "title": "Vogue",
+      "artist": "Madonna",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 6,
+      "title": "Vision of Love",
+      "artist": "Mariah Carey",
+      "genres": [
+        "פופ",
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 7,
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "genres": [
+        "פופ",
+        "רוק רך"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 8,
+      "title": "Hold On",
+      "artist": "En Vogue",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 9,
+      "title": "Cradle of Love",
+      "artist": "Billy Idol",
+      "genres": [
+        "רוק"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1990,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 10,
+      "title": "Blaze of Glory",
+      "artist": "Jon Bon Jovi",
+      "genres": [
+        "רוק"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1990"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 1,
+      "title": "(Everything I Do) I Do It for You",
+      "artist": "Bryan Adams",
+      "genres": [
+        "רוק רך",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 2,
+      "title": "I Wanna Sex You Up",
+      "artist": "Color Me Badd",
+      "genres": [
+        "R&B",
+        "ניו ג׳ק סווינג"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 3,
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C+C Music Factory",
+      "genres": [
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 4,
+      "title": "Rush Rush",
+      "artist": "Paula Abdul",
+      "genres": [
+        "פופ",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 5,
+      "title": "One More Try",
+      "artist": "Timmy T",
+      "genres": [
+        "פופ",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 6,
+      "title": "Unbelievable",
+      "artist": "EMF",
+      "genres": [
+        "רוק אלטרנטיבי",
+        "דאנס"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 7,
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "genres": [
+        "רוק",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 8,
+      "title": "I Like the Way (The Kissing Game)",
+      "artist": "Hi-Five",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 9,
+      "title": "The First Time",
+      "artist": "Surface",
+      "genres": [
+        "R&B",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1991,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 10,
+      "title": "Baby Baby",
+      "artist": "Amy Grant",
+      "genres": [
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1991"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 1,
+      "title": "End of the Road",
+      "artist": "Boyz II Men",
+      "genres": [
+        "R&B",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 2,
+      "title": "Baby Got Back",
+      "artist": "Sir Mix-a-Lot",
+      "genres": [
+        "היפ הופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 3,
+      "title": "Jump",
+      "artist": "Kris Kross",
+      "genres": [
+        "היפ הופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 4,
+      "title": "Save the Best for Last",
+      "artist": "Vanessa Williams",
+      "genres": [
+        "פופ",
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 5,
+      "title": "Baby-Baby-Baby",
+      "artist": "TLC",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 6,
+      "title": "Tears in Heaven",
+      "artist": "Eric Clapton",
+      "genres": [
+        "רוק רך",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 7,
+      "title": "My Lovin' (You're Never Gonna Get It)",
+      "artist": "En Vogue",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 8,
+      "title": "Under the Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "genres": [
+        "רוק אלטרנטיבי"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 9,
+      "title": "All 4 Love",
+      "artist": "Color Me Badd",
+      "genres": [
+        "R&B",
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1992,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 10,
+      "title": "Just Another Day",
+      "artist": "Jon Secada",
+      "genres": [
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1992"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 1,
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "genres": [
+        "פופ",
+        "R&B",
+        "בלדה"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 2,
+      "title": "Whoomp! (There It Is)",
+      "artist": "Tag Team",
+      "genres": [
+        "היפ הופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 3,
+      "title": "Can't Help Falling in Love",
+      "artist": "UB40",
+      "genres": [
+        "רגאיי",
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 4,
+      "title": "That's the Way Love Goes",
+      "artist": "Janet Jackson",
+      "genres": [
+        "R&B",
+        "פופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 5,
+      "title": "Freak Me",
+      "artist": "Silk",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 6,
+      "title": "Weak",
+      "artist": "SWV",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 7,
+      "title": "If I Ever Fall in Love",
+      "artist": "Shai",
+      "genres": [
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 8,
+      "title": "Dreamlover",
+      "artist": "Mariah Carey",
+      "genres": [
+        "פופ",
+        "R&B"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 9,
+      "title": "Rump Shaker",
+      "artist": "Wreckx-n-Effect",
+      "genres": [
+        "היפ הופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    },
+    {
+      "year": 1993,
+      "chart": "yearEnd",
+      "chartLabelHe": "סיכום Billboard השנתי",
+      "rank": 10,
+      "title": "Informer",
+      "artist": "Snow",
+      "genres": [
+        "רגאיי",
+        "היפ הופ"
+      ],
+      "sourceStatus": "verified",
+      "source": "Billboard Year-End Hot 100 singles of 1993"
+    }
+  ]
+}
