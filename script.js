@@ -23,6 +23,25 @@ const chartNames = {
   top100: 'דירוג שנתי משולב'
 };
 
+function expandDataset(data) {
+  if (Array.isArray(data.charts)) return data.charts;
+  if (!data.years || typeof data.years !== 'object') return [];
+
+  return Object.entries(data.years).flatMap(([year, songs]) =>
+    songs.map(([title, artist], index) => ({
+      year: Number(year),
+      rank: index + 1,
+      title,
+      artist,
+      chart: data.chart || 'yearEnd',
+      chartLabelHe: data.chartLabelHe || chartNames[data.chart] || '',
+      genres: data.genres || [],
+      sourceStatus: data.sourceStatus || 'verified',
+      source: `https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_${year}`
+    }))
+  );
+}
+
 async function loadData() {
   try {
     const files = [
@@ -39,7 +58,8 @@ async function loadData() {
       'data/charts-1989-1993.json',
       'data/charts-1994-1998.json',
       'data/charts-1999-2003.json',
-      'data/charts-2004-2008.json'
+      'data/charts-2004-2008.json',
+      'data/charts-2009-2018.json'
     ];
 
     const responses = await Promise.all(files.map(file => fetch(file)));
@@ -48,7 +68,7 @@ async function loadData() {
     });
 
     const datasets = await Promise.all(responses.map(response => response.json()));
-    state.songs = datasets.flatMap(data => Array.isArray(data.charts) ? data.charts : []);
+    state.songs = datasets.flatMap(expandDataset);
     populateFilters();
     updateChartOptions('yearEnd');
     applyFilters();
@@ -78,7 +98,7 @@ function populateFilters() {
   addOptions(elements.year, [
     { value: 'all', label: 'כל השנים' },
     ...years.map(year => ({ value: year, label: year }))
-  ], years.includes(2008) ? 2008 : years[0]);
+  ], years.includes(2018) ? 2018 : years[0]);
 
   const genres = uniqueSorted(state.songs.flatMap(song => song.genres || []));
   addOptions(elements.genre, [
@@ -212,7 +232,7 @@ function showToast(message) {
 }
 
 function resetFilters() {
-  elements.year.value = [...elements.year.options].some(option => option.value === '2008') ? '2008' : elements.year.options[0]?.value;
+  elements.year.value = [...elements.year.options].some(option => option.value === '2018') ? '2018' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
   elements.artist.value = '';
   updateChartOptions('yearEnd');
