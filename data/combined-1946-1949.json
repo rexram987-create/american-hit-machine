@@ -1,0 +1,56 @@
+{
+  "chart": "top100",
+  "chartLabelHe": "דירוג משולב מחושב: מכירות, רדיו וג׳וקבוקס",
+  "sourceStatus": "calculated",
+  "genres": ["פופ מסורתי"],
+  "years": {
+    "1946": [
+      ["The Gypsy", "The Ink Spots"],
+      ["To Each His Own", "Eddy Howard and His Orchestra"],
+      ["Oh! What It Seemed to Be", "Frankie Carle and His Orchestra featuring Marjorie Hughes"],
+      ["Rumors Are Flying", "Frankie Carle and His Orchestra featuring Marjorie Hughes"],
+      ["Prisoner of Love", "Perry Como"],
+      ["Five Minutes More", "Frank Sinatra"],
+      ["Doctor, Lawyer, Indian Chief", "Betty Hutton"],
+      ["The Gypsy", "Dinah Shore"],
+      ["Ole Buttermilk Sky", "Kay Kyser and His Orchestra featuring Michael Douglas"],
+      ["I Can't Begin to Tell You", "Bing Crosby with Carmen Cavallaro"]
+    ],
+    "1947": [
+      ["Heartaches", "Ted Weems and His Orchestra featuring Elmo Tanner"],
+      ["Near You", "Francis Craig and His Orchestra featuring Bob Lamm"],
+      ["Peg o' My Heart", "The Harmonicats"],
+      ["The Old Lamp-Lighter", "Sammy Kaye featuring Billy Williams"],
+      ["Smoke! Smoke! Smoke! (That Cigarette)", "Tex Williams and His Western Caravan"],
+      ["Linda", "Ray Noble and His Orchestra with Buddy Clark"],
+      ["(I Love You) For Sentimental Reasons", "The King Cole Trio"],
+      ["That's My Desire", "Frankie Laine"],
+      ["That's My Desire", "Sammy Kaye featuring Don Cornell and The Three Kaydets"],
+      ["Peg o' My Heart", "The Three Suns"]
+    ],
+    "1948": [
+      ["Buttons and Bows", "Dinah Shore and Her Happy Valley Boys"],
+      ["Mañana (Is Soon Enough for Me)", "Peggy Lee with Dave Barbour and The Brazilians"],
+      ["Twelfth Street Rag", "Pee Wee Hunt and His Orchestra"],
+      ["Ballerina", "Vaughn Monroe and His Orchestra"],
+      ["You Call Everybody Darlin'", "Al Trace and His New Orchestra featuring Bob Vincent"],
+      ["My Happiness", "Jon and Sondra Steele"],
+      ["Maybe You'll Be There", "Gordon Jenkins and His Orchestra featuring Charles LaVere"],
+      ["My Happiness", "The Pied Pipers"],
+      ["Now Is the Hour", "Bing Crosby"],
+      ["A Tree in the Meadow", "Margaret Whiting"]
+    ],
+    "1949": [
+      ["Riders in the Sky (A Cowboy Legend)", "Vaughn Monroe and His Orchestra"],
+      ["That Lucky Old Sun", "Frankie Laine with Jud Conlon's Rhythmaires"],
+      ["A Little Bird Told Me", "Evelyn Knight"],
+      ["You're Breaking My Heart", "Vic Damone"],
+      ["I Can Dream, Can't I?", "The Andrews Sisters"],
+      ["Some Enchanted Evening", "Perry Como"],
+      ["Cruising Down the River", "Blue Barron and His Orchestra"],
+      ["Slippin' Around", "Margaret Whiting and Jimmy Wakely"],
+      ["Forever and Ever", "Russ Morgan and His Orchestra"],
+      ["Forever and Ever", "Perry Como"]
+    ]
+  }
+}
