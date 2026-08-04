@@ -1,0 +1,224 @@
+{
+  "charts": [
+    {
+      "year": 1946,
+      "rank": 1,
+      "title": "To Each His Own",
+      "artist": "Eddy Howard",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 2,
+      "title": "Prisoner of Love",
+      "artist": "Perry Como",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 3,
+      "title": "The Gypsy",
+      "artist": "Dinah Shore",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 4,
+      "title": "Five Minutes More",
+      "artist": "Frank Sinatra",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 5,
+      "title": "Oh! What It Seemed to Be",
+      "artist": "Frank Sinatra",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 6,
+      "title": "Oh! What It Seemed to Be",
+      "artist": "Frankie Carle",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["ביג בנד", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 7,
+      "title": "Rumors Are Flying",
+      "artist": "Frankie Carle",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["ביג בנד", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 8,
+      "title": "The Gypsy",
+      "artist": "The Ink Spots",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["ווקאלי", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 9,
+      "title": "Personality",
+      "artist": "Johnny Mercer and The Pied Pipers",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי", "ווקאלי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 10,
+      "title": "Doctor, Lawyer, Indian Chief",
+      "artist": "Betty Hutton",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 1,
+      "title": "To Each His Own",
+      "artist": "Eddy Howard",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 2,
+      "title": "The Gypsy",
+      "artist": "The Ink Spots",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["ווקאלי", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 3,
+      "title": "Five Minutes More",
+      "artist": "Frank Sinatra",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 4,
+      "title": "Prisoner of Love",
+      "artist": "Perry Como",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 5,
+      "title": "Oh! What It Seemed to Be",
+      "artist": "Frankie Carle",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["ביג בנד", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 6,
+      "title": "Rumors Are Flying",
+      "artist": "Frankie Carle",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["ביג בנד", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 7,
+      "title": "The Gypsy",
+      "artist": "Dinah Shore",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 8,
+      "title": "Surrender",
+      "artist": "Perry Como",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 9,
+      "title": "South America, Take It Away",
+      "artist": "Bing Crosby and The Andrews Sisters",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי", "ווקאלי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    },
+    {
+      "year": 1946,
+      "rank": 10,
+      "title": "Doctor, Lawyer, Indian Chief",
+      "artist": "Betty Hutton",
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/40s/1947/BB-1947-01-04.pdf"
+    }
+  ]
+}
