@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "coverage": "1979-1983",
+    "chart": "Billboard Year-End Hot 100",
+    "status": "verified"
+  },
+  "charts": [
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"My Sharona","artist":"The Knack","genres":["רוק","פאוור פופ"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Bad Girls","artist":"Donna Summer","genres":["דיסקו","פופ"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"Le Freak","artist":"Chic","genres":["דיסקו","פאנק"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"Da Ya Think I'm Sexy?","artist":"Rod Stewart","genres":["דיסקו","רוק"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Reunited","artist":"Peaches & Herb","genres":["סול","R&B"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"I Will Survive","artist":"Gloria Gaynor","genres":["דיסקו","פופ"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Hot Stuff","artist":"Donna Summer","genres":["דיסקו","רוק"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"Y.M.C.A.","artist":"Village People","genres":["דיסקו","פופ"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"Ring My Bell","artist":"Anita Ward","genres":["דיסקו","R&B"],"sourceStatus":"verified"},
+    {"year":1979,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Sad Eyes","artist":"Robert John","genres":["פופ","סופט רוק"],"sourceStatus":"verified"},
+
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Call Me","artist":"Blondie","genres":["ניו וייב","רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Another Brick in the Wall, Part II","artist":"Pink Floyd","genres":["רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"Magic","artist":"Olivia Newton-John","genres":["פופ"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"Rock with You","artist":"Michael Jackson","genres":["פופ","R&B","דיסקו"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Do That to Me One More Time","artist":"Captain & Tennille","genres":["פופ","סופט רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Crazy Little Thing Called Love","artist":"Queen","genres":["רוקנרול","רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Coming Up","artist":"Paul McCartney","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"Funkytown","artist":"Lipps Inc.","genres":["דיסקו","פאנק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"It's Still Rock and Roll to Me","artist":"Billy Joel","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":1980,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"The Rose","artist":"Bette Midler","genres":["פופ","בלדה"],"sourceStatus":"verified"},
+
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Bette Davis Eyes","artist":"Kim Carnes","genres":["פופ רוק","ניו וייב"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Endless Love","artist":"Diana Ross & Lionel Richie","genres":["פופ","R&B","בלדה"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"Lady","artist":"Kenny Rogers","genres":["קאנטרי פופ","בלדה"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"(Just Like) Starting Over","artist":"John Lennon","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Jessie's Girl","artist":"Rick Springfield","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Celebration","artist":"Kool & the Gang","genres":["פאנק","דיסקו","R&B"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Kiss on My List","artist":"Daryl Hall & John Oates","genres":["פופ רוק","סול"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"I Love a Rainy Night","artist":"Eddie Rabbitt","genres":["קאנטרי פופ"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"9 to 5","artist":"Dolly Parton","genres":["קאנטרי פופ"],"sourceStatus":"verified"},
+    {"year":1981,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Keep on Loving You","artist":"REO Speedwagon","genres":["רוק","בלדה"],"sourceStatus":"verified"},
+
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Physical","artist":"Olivia Newton-John","genres":["פופ","דאנס"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Eye of the Tiger","artist":"Survivor","genres":["רוק"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"I Love Rock 'n' Roll","artist":"Joan Jett & the Blackhearts","genres":["רוק"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"Ebony and Ivory","artist":"Paul McCartney and Stevie Wonder","genres":["פופ","סול"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Centerfold","artist":"The J. Geils Band","genres":["רוק","ניו וייב"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Don't You Want Me","artist":"The Human League","genres":["סינת׳פופ","ניו וייב"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Jack & Diane","artist":"John Cougar","genres":["רוק"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"Hurts So Good","artist":"John Cougar","genres":["רוק"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"Abracadabra","artist":"The Steve Miller Band","genres":["רוק","פופ"],"sourceStatus":"verified"},
+    {"year":1982,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Hard to Say I'm Sorry","artist":"Chicago","genres":["פופ רוק","בלדה"],"sourceStatus":"verified"},
+
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Every Breath You Take","artist":"The Police","genres":["רוק","ניו וייב"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Billie Jean","artist":"Michael Jackson","genres":["פופ","R&B","פאנק"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"Flashdance... What a Feeling","artist":"Irene Cara","genres":["פופ","דאנס"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"Down Under","artist":"Men at Work","genres":["רוק","ניו וייב"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Beat It","artist":"Michael Jackson","genres":["פופ","רוק"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Total Eclipse of the Heart","artist":"Bonnie Tyler","genres":["פופ רוק","בלדה"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Maneater","artist":"Daryl Hall & John Oates","genres":["פופ רוק","סול"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"Baby, Come to Me","artist":"Patti Austin and James Ingram","genres":["R&B","פופ","בלדה"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"Maniac","artist":"Michael Sembello","genres":["פופ רוק","דאנס"],"sourceStatus":"verified"},
+    {"year":1983,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Sweet Dreams (Are Made of This)","artist":"Eurythmics","genres":["סינת׳פופ","ניו וייב"],"sourceStatus":"verified"}
+  ]
+}
