@@ -29,7 +29,9 @@ async function loadData() {
       'data/charts.json',
       'data/1945.json',
       'data/charts-1946-1949.json',
-      'data/charts-1950-1957.json'
+      'data/charts-1950-1957.json',
+      'data/charts-1959-1963.json',
+      'data/charts-1964-1968.json'
     ];
     const responses = await Promise.all(files.map(file => fetch(file)));
     responses.forEach(response => {
@@ -66,7 +68,7 @@ function populateFilters() {
   addOptions(elements.year, [
     { value: 'all', label: 'כל השנים' },
     ...years.map(year => ({ value: year, label: year }))
-  ], years.includes(1957) ? 1957 : years[0]);
+  ], years.includes(1968) ? 1968 : years[0]);
 
   const genres = uniqueSorted(state.songs.flatMap(song => song.genres || []));
   addOptions(elements.genre, [
@@ -200,7 +202,7 @@ function showToast(message) {
 }
 
 function resetFilters() {
-  elements.year.value = [...elements.year.options].some(option => option.value === '1957') ? '1957' : elements.year.options[0]?.value;
+  elements.year.value = [...elements.year.options].some(option => option.value === '1968') ? '1968' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
   elements.artist.value = '';
   updateChartOptions('yearEnd');
