@@ -48,6 +48,7 @@ async function loadData() {
       'data/charts.json',
       'data/1945.json',
       'data/charts-1946-1949.json',
+      'data/charts-1946-radio-jukebox.json',
       'data/combined-1946-1949.json',
       'data/charts-1950-1957.json',
       'data/charts-1959-1963.json',
