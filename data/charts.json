@@ -1,11 +1,128 @@
 {
   "metadata": {
-    "version": "0.1.0-demo",
-    "status": "demonstration",
-    "noticeHe": "נתוני הדגמה בלבד. הדירוגים אינם מוצגים כנתוני Billboard רשמיים.",
-    "plannedCoverage": "1944-2025"
+    "version": "0.2.0",
+    "status": "mixed",
+    "noticeHe": "המאגר כולל נתונים מאומתים לצד נתוני הדגמה המסומנים בבירור.",
+    "plannedCoverage": "1944-2025",
+    "sources": [
+      {
+        "id": "billboard-year-end-1958",
+        "label": "Billboard Year-End Top Singles of 1958",
+        "type": "official-year-end-list"
+      }
+    ]
   },
   "charts": [
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 1,
+      "title": "Volare (Nel Blu Dipinto di Blu)",
+      "artist": "Domenico Modugno",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 2,
+      "title": "All I Have to Do Is Dream",
+      "artist": "The Everly Brothers",
+      "genres": ["פופ", "קאנטרי", "רוקנרול"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 3,
+      "title": "Don't",
+      "artist": "Elvis Presley",
+      "genres": ["פופ", "רוקנרול"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 4,
+      "title": "Witch Doctor",
+      "artist": "David Seville",
+      "genres": ["פופ", "שיר חידוש"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 5,
+      "title": "Patricia",
+      "artist": "Pérez Prado",
+      "genres": ["לטיני", "ממבו", "פופ אינסטרומנטלי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 6,
+      "title": "Sail Along Silvery Moon",
+      "artist": "Billy Vaughn",
+      "genres": ["פופ אינסטרומנטלי", "איזי ליסנינג"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 7,
+      "title": "Catch a Falling Star",
+      "artist": "Perry Como",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 8,
+      "title": "Tequila",
+      "artist": "The Champs",
+      "genres": ["רוקנרול", "לטיני", "אינסטרומנטלי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 9,
+      "title": "It's All in the Game",
+      "artist": "Tommy Edwards",
+      "genres": ["פופ מסורתי", "R&B"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
+    {
+      "year": 1958,
+      "chart": "yearEnd",
+      "chartLabelHe": "Billboard השנתי",
+      "rank": 10,
+      "title": "Return to Me",
+      "artist": "Dean Martin",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-year-end-1958"
+    },
     {
       "year": 1955,
       "chart": "jukebox",
