@@ -25,7 +25,11 @@ const chartNames = {
 
 async function loadData() {
   try {
-    const files = ['data/charts.json', 'data/1945.json'];
+    const files = [
+      'data/charts.json',
+      'data/1945.json',
+      'data/charts-1946-1949.json'
+    ];
     const responses = await Promise.all(files.map(file => fetch(file)));
     responses.forEach(response => {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
@@ -60,7 +64,7 @@ function populateFilters() {
   addOptions(elements.year, [
     { value: 'all', label: 'כל השנים' },
     ...years.map(year => ({ value: year, label: year }))
-  ], years.includes(1945) ? 1945 : years[0]);
+  ], years.includes(1949) ? 1949 : years[0]);
 
   const genres = uniqueSorted(state.songs.flatMap(song => song.genres || []));
   addOptions(elements.genre, [
@@ -72,7 +76,7 @@ function populateFilters() {
   addOptions(elements.chart, [
     { value: 'all', label: chartNames.all },
     ...availableCharts.map(chart => ({ value: chart, label: chartNames[chart] || chart }))
-  ], availableCharts.includes('top100') ? 'top100' : 'all');
+  ], availableCharts.includes('sales') ? 'sales' : 'all');
 }
 
 function normalize(value) {
@@ -179,9 +183,9 @@ function showToast(message) {
 }
 
 function resetFilters() {
-  elements.year.value = [...elements.year.options].some(option => option.value === '1945') ? '1945' : elements.year.options[0]?.value;
+  elements.year.value = [...elements.year.options].some(option => option.value === '1949') ? '1949' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
-  elements.chart.value = [...elements.chart.options].some(option => option.value === 'top100') ? 'top100' : 'all';
+  elements.chart.value = [...elements.chart.options].some(option => option.value === 'sales') ? 'sales' : 'all';
   elements.artist.value = '';
   applyFilters();
 }
