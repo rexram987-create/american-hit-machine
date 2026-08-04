@@ -1,10 +1,20 @@
 {
   "metadata": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "status": "mixed",
     "noticeHe": "המאגר כולל נתונים מאומתים לצד נתוני הדגמה המסומנים בבירור.",
     "plannedCoverage": "1944-2025",
+    "availabilityNotes": {
+      "1944": {
+        "radio": "מצעד Most Played by Jockeys טרם פעל בשנת 1944; הוא החל ב-1945."
+      }
+    },
     "sources": [
+      {
+        "id": "billboard-1944-year-end",
+        "label": "Billboard, January 6, 1945 — Disks That Spun and Sold in ’44",
+        "type": "official-year-end-list"
+      },
       {
         "id": "billboard-year-end-1958",
         "label": "Billboard Year-End Top Singles of 1958",
@@ -13,6 +23,226 @@
     ]
   },
   "charts": [
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 1,
+      "title": "Swinging on a Star",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 2,
+      "title": "I'll Get By (As Long as I Have You)",
+      "artist": "Harry James & His Orchestra featuring Dick Haymes",
+      "genres": ["פופ מסורתי", "ביג בנד"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 3,
+      "title": "I'll Walk Alone",
+      "artist": "Dinah Shore",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 4,
+      "title": "I'll Be Seeing You",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 5,
+      "title": "You Always Hurt the One You Love",
+      "artist": "The Mills Brothers",
+      "genres": ["פופ מסורתי", "הרמוניה ווקאלית"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 6,
+      "title": "Bésame Mucho",
+      "artist": "Jimmy Dorsey & His Orchestra featuring Bob Eberly and Kitty Kallen",
+      "genres": ["ביג בנד", "לטיני", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 7,
+      "title": "My Heart Tells Me",
+      "artist": "Glen Gray & the Casa Loma Orchestra featuring Eugenie Baird",
+      "genres": ["ביג בנד", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 8,
+      "title": "I Love You",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 9,
+      "title": "Holiday for Strings",
+      "artist": "David Rose & His Orchestra",
+      "genres": ["פופ אינסטרומנטלי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "sales",
+      "chartLabelHe": "מכירות תקליטים",
+      "rank": 10,
+      "title": "Shoo-Shoo Baby",
+      "artist": "The Andrews Sisters",
+      "genres": ["סווינג", "הרמוניה ווקאלית"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 1,
+      "title": "You Always Hurt the One You Love",
+      "artist": "The Mills Brothers",
+      "genres": ["פופ מסורתי", "הרמוניה ווקאלית"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 2,
+      "title": "I'll Get By (As Long as I Have You)",
+      "artist": "Harry James & His Orchestra featuring Dick Haymes",
+      "genres": ["פופ מסורתי", "ביג בנד"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 3,
+      "title": "Swinging on a Star",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 4,
+      "title": "San Fernando Valley",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי", "מערבון"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 5,
+      "title": "G.I. Jive",
+      "artist": "Louis Jordan & His Tympany Five",
+      "genres": ["ג׳אמפ בלוז", "R&B"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 6,
+      "title": "Bésame Mucho",
+      "artist": "Jimmy Dorsey & His Orchestra featuring Bob Eberly and Kitty Kallen",
+      "genres": ["ביג בנד", "לטיני", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 7,
+      "title": "I'll Be Seeing You",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 8,
+      "title": "I'll Walk Alone",
+      "artist": "Dinah Shore",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 9,
+      "title": "I Love You",
+      "artist": "Bing Crosby",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
+    {
+      "year": 1944,
+      "chart": "jukebox",
+      "chartLabelHe": "מכונות ג׳וקבוקס",
+      "rank": 10,
+      "title": "There'll Be a Hot Time in the Town of Berlin",
+      "artist": "Bing Crosby and The Andrews Sisters",
+      "genres": ["פופ מסורתי", "שיר מלחמה"],
+      "sourceStatus": "verified",
+      "sourceId": "billboard-1944-year-end"
+    },
     {
       "year": 1958,
       "chart": "yearEnd",
