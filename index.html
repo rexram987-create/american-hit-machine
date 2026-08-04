@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="יישומון אינטראקטיבי לחקר מצעדי המוזיקה האמריקאיים ההיסטוריים">
+  <title>מכונת הלהיטים של אמריקה</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="record" aria-hidden="true"><span></span></div>
+    <div>
+      <p class="eyebrow">American Hit Machine</p>
+      <h1>מכונת הלהיטים של אמריקה</h1>
+      <p class="subtitle">חיפוש והשוואה בין מצעדי Billboard, מכירות תקליטים, רדיו ומכונות ג׳וקבוקס.</p>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="notice" aria-label="הודעת נתונים">
+      <strong>גרסת הרצה:</strong>
+      הרשומות המוצגות כעת הן נתוני הדגמה לבדיקת הממשק. בהמשך הן יוחלפו בנתוני מצעדים היסטוריים מאומתים ומצוטטים.
+    </section>
+
+    <section class="controls" aria-labelledby="search-heading">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">חיפוש במאגר</p>
+          <h2 id="search-heading">בחרו שנה, ז׳אנר וסוג מצעד</h2>
+        </div>
+        <button id="resetButton" class="button button-ghost" type="button">איפוס הבחירות</button>
+      </div>
+
+      <div class="filters-grid">
+        <label>
+          <span>שנה</span>
+          <select id="yearFilter"></select>
+        </label>
+
+        <label>
+          <span>ז׳אנר</span>
+          <select id="genreFilter"></select>
+        </label>
+
+        <label>
+          <span>סוג מצעד</span>
+          <select id="chartFilter"></select>
+        </label>
+
+        <label class="artist-search">
+          <span>חיפוש זמר, זמרת או להקה</span>
+          <input id="artistFilter" type="search" placeholder="לדוגמה: Elvis" autocomplete="off">
+        </label>
+      </div>
+
+      <div class="control-actions">
+        <button id="showButton" class="button button-primary" type="button">הצג את עשרת הגדולים</button>
+        <button id="copyAllButton" class="button button-secondary" type="button">העתק את הרשימה</button>
+      </div>
+    </section>
+
+    <section class="results-section" aria-labelledby="results-heading">
+      <div class="results-header">
+        <div>
+          <p class="section-kicker">תוצאות</p>
+          <h2 id="results-heading">עשרת השירים המובילים</h2>
+        </div>
+        <p id="resultSummary" class="result-summary" aria-live="polite"></p>
+      </div>
+
+      <div id="results" class="results-list"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <span aria-hidden="true">♫</span>
+        <h3>לא נמצאו תוצאות</h3>
+        <p>נסו לבחור שנה אחרת, להרחיב את הז׳אנר או למחוק את שם המבצע.</p>
+      </div>
+    </section>
+
+    <section class="about" aria-labelledby="about-heading">
+      <p class="section-kicker">על הפרויקט</p>
+      <h2 id="about-heading">מסע בתולדות הלהיטים האמריקאיים</h2>
+      <p>המאגר מתוכנן לכסות את השנים 1944–2025. לכל תקופה יוצגו רק סוגי המצעדים שהיו קיימים בה בפועל, ותוצג הבחנה בין דירוג שנתי רשמי לבין דירוג שחושב מנתונים שבועיים.</p>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <footer>
+    <p>American Hit Machine · פרויקט מוזיקלי־היסטורי עצמאי</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
