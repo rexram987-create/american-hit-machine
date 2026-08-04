@@ -1,0 +1,25 @@
+{
+  "charts": [
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Lose Control","artist":"Teddy Swims","genres":["סול","פופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"A Bar Song (Tipsy)","artist":"Shaboozey","genres":["קאנטרי","פופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"Beautiful Things","artist":"Benson Boone","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"I Had Some Help","artist":"Post Malone featuring Morgan Wallen","genres":["קאנטרי פופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Lovin on Me","artist":"Jack Harlow","genres":["היפ הופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Espresso","artist":"Sabrina Carpenter","genres":["פופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Million Dollar Baby","artist":"Tommy Richman","genres":["R&B","היפ הופ"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"I Remember Everything","artist":"Zach Bryan featuring Kacey Musgraves","genres":["קאנטרי"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"Too Sweet","artist":"Hozier","genres":["פופ רוק","סול"],"sourceStatus":"verified"},
+    {"year":2024,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Stick Season","artist":"Noah Kahan","genres":["פולק פופ"],"sourceStatus":"verified"},
+
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":1,"title":"Die with a Smile","artist":"Lady Gaga and Bruno Mars","genres":["פופ","סול"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":2,"title":"Luther","artist":"Kendrick Lamar and SZA","genres":["היפ הופ","R&B"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":3,"title":"A Bar Song (Tipsy)","artist":"Shaboozey","genres":["קאנטרי","פופ"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":4,"title":"Lose Control","artist":"Teddy Swims","genres":["סול","פופ"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":5,"title":"Birds of a Feather","artist":"Billie Eilish","genres":["פופ אלטרנטיבי"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":6,"title":"Beautiful Things","artist":"Benson Boone","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":7,"title":"Ordinary","artist":"Alex Warren","genres":["פופ"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":8,"title":"I Had Some Help","artist":"Post Malone featuring Morgan Wallen","genres":["קאנטרי פופ"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":9,"title":"APT.","artist":"Rosé and Bruno Mars","genres":["פופ רוק"],"sourceStatus":"verified"},
+    {"year":2025,"chart":"yearEnd","chartLabelHe":"סיכום Billboard השנתי","rank":10,"title":"Pink Pony Club","artist":"Chappell Roan","genres":["פופ"],"sourceStatus":"verified"}
+  ]
+}
