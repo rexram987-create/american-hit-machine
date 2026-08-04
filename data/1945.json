@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "year": 1945,
+    "status": "calculated",
+    "noticeHe": "דירוג שנתי מחושב מנתוני המצעדים השבועיים של Billboard; אינו רשימת סוף שנה רשמית של Billboard.",
+    "source": "Billboard weekly Best-Selling Retail Records, Records Most-Played on the Air and Most-Played Juke Box Records"
+  },
+  "charts": [
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":1,"title":"Sentimental Journey","artist":"Les Brown and His Orchestra featuring Doris Day","genres":["פופ מסורתי","סווינג"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":2,"title":"Till the End of Time","artist":"Perry Como","genres":["פופ מסורתי"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":3,"title":"On the Atchison, Topeka and the Santa Fe","artist":"Johnny Mercer and The Pied Pipers","genres":["פופ מסורתי","סווינג"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":4,"title":"There! I've Said It Again","artist":"Vaughn Monroe","genres":["פופ מסורתי"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":5,"title":"Rum and Coca-Cola","artist":"The Andrews Sisters","genres":["פופ מסורתי","קליפסו"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":6,"title":"My Dreams Are Getting Better All the Time","artist":"Les Brown and His Orchestra featuring Doris Day","genres":["פופ מסורתי","סווינג"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":7,"title":"Chickery Chick","artist":"Sammy Kaye and His Orchestra","genres":["פופ מסורתי","שיר חידוש"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":8,"title":"It's Been a Long, Long Time","artist":"Harry James and His Orchestra featuring Kitty Kallen","genres":["פופ מסורתי","סווינג"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":9,"title":"Candy","artist":"Johnny Mercer, Jo Stafford and The Pied Pipers","genres":["פופ מסורתי","ג׳אז ווקאלי"],"sourceStatus":"calculated"},
+    {"year":1945,"chart":"top100","chartLabelHe":"דירוג שנתי משולב","rank":10,"title":"I Can't Begin to Tell You","artist":"Bing Crosby with Carmen Cavallaro","genres":["פופ מסורתי"],"sourceStatus":"calculated"}
+  ]
+}
