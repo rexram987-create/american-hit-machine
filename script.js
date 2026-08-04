@@ -37,7 +37,7 @@ function expandDataset(data) {
       chartLabelHe: data.chartLabelHe || chartNames[data.chart] || '',
       genres: data.genres || [],
       sourceStatus: data.sourceStatus || 'verified',
-      source: `https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_${year}`
+      source: data.source || `https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_${year}`
     }))
   );
 }
@@ -48,6 +48,7 @@ async function loadData() {
       'data/charts.json',
       'data/1945.json',
       'data/charts-1946-1949.json',
+      'data/combined-1946-1949.json',
       'data/charts-1950-1957.json',
       'data/charts-1959-1963.json',
       'data/charts-1964-1968.json',
