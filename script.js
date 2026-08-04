@@ -16,7 +16,7 @@ const elements = {
 
 const chartNames = {
   all: 'כל סוגי המצעדים',
-  yearEnd: 'Billboard השנתי (Hot 100)',
+  yearEnd: 'סיכום Billboard השנתי',
   sales: 'מכירות תקליטים של Billboard',
   radio: 'השמעות ברדיו',
   jukebox: 'מכונות ג׳וקבוקס',
@@ -28,7 +28,8 @@ async function loadData() {
     const files = [
       'data/charts.json',
       'data/1945.json',
-      'data/charts-1946-1949.json'
+      'data/charts-1946-1949.json',
+      'data/charts-1950-1957.json'
     ];
     const responses = await Promise.all(files.map(file => fetch(file)));
     responses.forEach(response => {
@@ -37,7 +38,7 @@ async function loadData() {
     const datasets = await Promise.all(responses.map(response => response.json()));
     state.songs = datasets.flatMap(data => Array.isArray(data.charts) ? data.charts : []);
     populateFilters();
-    updateChartOptions('sales');
+    updateChartOptions('yearEnd');
     applyFilters();
   } catch (error) {
     console.error('Unable to load chart data:', error);
@@ -65,7 +66,7 @@ function populateFilters() {
   addOptions(elements.year, [
     { value: 'all', label: 'כל השנים' },
     ...years.map(year => ({ value: year, label: year }))
-  ], years.includes(1949) ? 1949 : years[0]);
+  ], years.includes(1957) ? 1957 : years[0]);
 
   const genres = uniqueSorted(state.songs.flatMap(song => song.genres || []));
   addOptions(elements.genre, [
@@ -199,10 +200,10 @@ function showToast(message) {
 }
 
 function resetFilters() {
-  elements.year.value = [...elements.year.options].some(option => option.value === '1949') ? '1949' : elements.year.options[0]?.value;
+  elements.year.value = [...elements.year.options].some(option => option.value === '1957') ? '1957' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
   elements.artist.value = '';
-  updateChartOptions('sales');
+  updateChartOptions('yearEnd');
   applyFilters();
 }
 
