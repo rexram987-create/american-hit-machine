@@ -1,7 +1,4 @@
-const state = {
-  songs: [],
-  filtered: []
-};
+const state = { songs: [], filtered: [] };
 
 const elements = {
   year: document.querySelector('#yearFilter'),
@@ -23,15 +20,18 @@ const chartNames = {
   sales: 'מכירות תקליטים',
   radio: 'השמעות ברדיו',
   jukebox: 'מכונות ג׳וקבוקס',
-  top100: 'Top 100 המשולב'
+  top100: 'דירוג שנתי משולב'
 };
 
 async function loadData() {
   try {
-    const response = await fetch('data/charts.json');
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
-    state.songs = Array.isArray(data.charts) ? data.charts : [];
+    const files = ['data/charts.json', 'data/1945.json'];
+    const responses = await Promise.all(files.map(file => fetch(file)));
+    responses.forEach(response => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    });
+    const datasets = await Promise.all(responses.map(response => response.json()));
+    state.songs = datasets.flatMap(data => Array.isArray(data.charts) ? data.charts : []);
     populateFilters();
     applyFilters();
   } catch (error) {
@@ -41,8 +41,7 @@ async function loadData() {
 }
 
 function uniqueSorted(values, numeric = false) {
-  const unique = [...new Set(values)];
-  return unique.sort((a, b) => numeric ? b - a : String(a).localeCompare(String(b), 'he'));
+  return [...new Set(values)].sort((a, b) => numeric ? b - a : String(a).localeCompare(String(b), 'he'));
 }
 
 function addOptions(select, options, selectedValue) {
@@ -61,7 +60,7 @@ function populateFilters() {
   addOptions(elements.year, [
     { value: 'all', label: 'כל השנים' },
     ...years.map(year => ({ value: year, label: year }))
-  ], years.includes(1955) ? 1955 : years[0]);
+  ], years.includes(1945) ? 1945 : years[0]);
 
   const genres = uniqueSorted(state.songs.flatMap(song => song.genres || []));
   addOptions(elements.genre, [
@@ -73,7 +72,7 @@ function populateFilters() {
   addOptions(elements.chart, [
     { value: 'all', label: chartNames.all },
     ...availableCharts.map(chart => ({ value: chart, label: chartNames[chart] || chart }))
-  ], availableCharts.includes('jukebox') ? 'jukebox' : 'all');
+  ], availableCharts.includes('top100') ? 'top100' : 'all');
 }
 
 function normalize(value) {
@@ -110,11 +109,17 @@ function renderResults() {
     const article = document.createElement('article');
     article.className = 'song-card';
 
+    const statusLabels = {
+      demo: 'נתון הדגמה',
+      verified: 'נתון מאומת',
+      calculated: 'דירוג מחושב'
+    };
+
     const badges = [
       `${song.year}`,
       song.chartLabelHe || chartNames[song.chart] || song.chart,
       ...(song.genres || []),
-      song.sourceStatus === 'demo' ? 'נתון הדגמה' : ''
+      statusLabels[song.sourceStatus] || ''
     ].filter(Boolean);
 
     article.innerHTML = `
@@ -174,9 +179,9 @@ function showToast(message) {
 }
 
 function resetFilters() {
-  elements.year.value = [...elements.year.options].some(option => option.value === '1955') ? '1955' : elements.year.options[0]?.value;
+  elements.year.value = [...elements.year.options].some(option => option.value === '1945') ? '1945' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
-  elements.chart.value = [...elements.chart.options].some(option => option.value === 'jukebox') ? 'jukebox' : 'all';
+  elements.chart.value = [...elements.chart.options].some(option => option.value === 'top100') ? 'top100' : 'all';
   elements.artist.value = '';
   applyFilters();
 }
