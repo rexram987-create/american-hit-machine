@@ -16,8 +16,8 @@ const elements = {
 
 const chartNames = {
   all: 'כל סוגי המצעדים',
-  yearEnd: 'Billboard השנתי',
-  sales: 'מכירות תקליטים',
+  yearEnd: 'Billboard השנתי (Hot 100)',
+  sales: 'מכירות תקליטים של Billboard',
   radio: 'השמעות ברדיו',
   jukebox: 'מכונות ג׳וקבוקס',
   top100: 'דירוג שנתי משולב'
@@ -37,6 +37,7 @@ async function loadData() {
     const datasets = await Promise.all(responses.map(response => response.json()));
     state.songs = datasets.flatMap(data => Array.isArray(data.charts) ? data.charts : []);
     populateFilters();
+    updateChartOptions('sales');
     applyFilters();
   } catch (error) {
     console.error('Unable to load chart data:', error);
@@ -71,12 +72,27 @@ function populateFilters() {
     { value: 'all', label: 'כל הז׳אנרים' },
     ...genres.map(genre => ({ value: genre, label: genre }))
   ], 'all');
+}
 
-  const availableCharts = uniqueSorted(state.songs.map(song => song.chart));
+function chartsForSelectedYear() {
+  const selectedYear = elements.year.value;
+  const relevantSongs = selectedYear === 'all'
+    ? state.songs
+    : state.songs.filter(song => String(song.year) === selectedYear);
+  return uniqueSorted(relevantSongs.map(song => song.chart));
+}
+
+function updateChartOptions(preferredValue) {
+  const availableCharts = chartsForSelectedYear();
+  const currentValue = preferredValue || elements.chart.value;
+  const selectedValue = availableCharts.includes(currentValue)
+    ? currentValue
+    : availableCharts[0] || 'all';
+
   addOptions(elements.chart, [
-    { value: 'all', label: chartNames.all },
+    ...(elements.year.value === 'all' ? [{ value: 'all', label: chartNames.all }] : []),
     ...availableCharts.map(chart => ({ value: chart, label: chartNames[chart] || chart }))
-  ], availableCharts.includes('sales') ? 'sales' : 'all');
+  ], selectedValue);
 }
 
 function normalize(value) {
@@ -185,14 +201,17 @@ function showToast(message) {
 function resetFilters() {
   elements.year.value = [...elements.year.options].some(option => option.value === '1949') ? '1949' : elements.year.options[0]?.value;
   elements.genre.value = 'all';
-  elements.chart.value = [...elements.chart.options].some(option => option.value === 'sales') ? 'sales' : 'all';
   elements.artist.value = '';
+  updateChartOptions('sales');
   applyFilters();
 }
 
 elements.show.addEventListener('click', applyFilters);
 elements.reset.addEventListener('click', resetFilters);
-elements.year.addEventListener('change', applyFilters);
+elements.year.addEventListener('change', () => {
+  updateChartOptions();
+  applyFilters();
+});
 elements.genre.addEventListener('change', applyFilters);
 elements.chart.addEventListener('change', applyFilters);
 elements.artist.addEventListener('input', applyFilters);
