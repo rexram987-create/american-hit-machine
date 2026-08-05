@@ -1,0 +1,20 @@
+{
+  "chart": "jukebox",
+  "chartLabelHe": "השמעות בג׳וקבוקס — סיכום שנתי של Billboard",
+  "sourceStatus": "verified",
+  "source": "https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1950/Billboard%201950-01-14.pdf",
+  "years": {
+    "1949": [
+      ["Riders in the Sky", "Vaughn Monroe and His Orchestra"],
+      ["A Little Bird Told Me", "Evelyn Knight and The Stardusters"],
+      ["Forever and Ever", "Russ Morgan and His Orchestra"],
+      ["Slipping Around", "Margaret Whiting and Jimmy Wakely"],
+      ["That Lucky Old Sun", "Frankie Laine"],
+      ["Cruising Down the River", "Russ Morgan and His Orchestra"],
+      ["Cruising Down the River", "Blue Barron and His Orchestra"],
+      ["Some Enchanted Evening", "Perry Como"],
+      ["You're Breaking My Heart", "Vic Damone"],
+      ["Powder Your Face with Sunshine", "Evelyn Knight" ]
+    ]
+  }
+}
