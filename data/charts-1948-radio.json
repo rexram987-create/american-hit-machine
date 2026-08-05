@@ -1,0 +1,114 @@
+{
+  "charts": [
+    {
+      "year": 1948,
+      "rank": 1,
+      "title": "Mañana (Is Soon Enough for Me)",
+      "artist": "Peggy Lee with Dave Barbour",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 2,
+      "title": "My Happiness",
+      "artist": "Jon and Sondra Steele",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 3,
+      "title": "A Tree in the Meadow",
+      "artist": "Margaret Whiting",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 4,
+      "title": "Love Somebody",
+      "artist": "Doris Day and Buddy Clark",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 5,
+      "title": "Twelfth Street Rag",
+      "artist": "Pee Wee Hunt",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["ג׳אז", "פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 6,
+      "title": "I'm Looking Over a Four Leaf Clover",
+      "artist": "Art Mooney",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 7,
+      "title": "My Happiness",
+      "artist": "The Pied Pipers",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 8,
+      "title": "You Call Everybody Darlin'",
+      "artist": "Al Trace with Bob Vincent",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 9,
+      "title": "Now Is the Hour",
+      "artist": "Margaret Whiting",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    },
+    {
+      "year": 1948,
+      "rank": 10,
+      "title": "Now Is the Hour",
+      "artist": "Bing Crosby with Ken Darby",
+      "chart": "radio",
+      "chartLabelHe": "השמעות ברדיו — סקר Billboard השנתי",
+      "genres": ["פופ מסורתי"],
+      "sourceStatus": "verified",
+      "source": "Billboard, Third Annual Music-Record Poll, January 1, 1949"
+    }
+  ]
+}
